@@ -13,3 +13,11 @@ Os exercícios são do Livro: **Compiladores - Da Teoria à Prática**.
 Na primeira atividade foi resolvido os exercícios do capítulo 1 do livro.
 >[Primeira atividade Avaliativa](https://github.com/AndreReis34/Atividades_de_Compilador/blob/main/1%C2%B0_Avaliacao/Exercicio_Do_Cap01.pdf)
 
+### Segunda Avaliação
+Nessa segunda atividade foi escolhido p capítulo 3 e 4 do livro.
+>[Capítulo 3](https://github.com/AndreReis34/Atividades_de_Compilador/blob/main/2%C2%B0_Avalia%C3%A7%C3%A3o/Exerc%C3%ADcios%20do%20Capitulo%203.pdf)
+>[Capítulo 4]
+### Terceira Avaliação
+A terceira avaliação foi modifciada para a entrega das atividades extras.
+>[1° Atividade Extra](https://github.com/AndreReis34/Atividades_de_Compilador/blob/main/3%C2%B0_Avalia%C3%A7%C3%A3o/1%C2%B0%20Atividade%20Extra.pdf)
+>[2° Atividade Extra](https://github.com/AndreReis34/Atividades_de_Compilador/blob/main/3%C2%B0_Avalia%C3%A7%C3%A3o/2%C2%B0%20Atividade%20Extra.pdf)
